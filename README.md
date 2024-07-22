@@ -12,9 +12,6 @@
 Запушила:
 ![Запушила](https://github.com/timakhova/homework_GitLab/blob/main/1-3%20gitlab%20pushed.png)
 
-Сделала раннер:
-![Сделала раннер](https://github.com/timakhova/homework_GitLab/blob/main/1-4%20created%20runner%20cmd.png)
-
 Сделала раннер в Докере:
 ![Сделала раннер](https://github.com/timakhova/homework_GitLab/blob/main/1-4%20created%20runner%20cmd.png)
 
